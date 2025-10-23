@@ -13,6 +13,10 @@ You can either train your own model or use the **pre-trained model** provided be
 
 ---
 
+## 🎬 Demo Video
+
+Check out the demo of the model in action:  
+[Watch Demo on YouTube](https://youtu.be/sYWt0kcxBvY)
 
 ---
 
